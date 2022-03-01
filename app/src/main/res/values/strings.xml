@@ -11,4 +11,6 @@
     <string name="hint_cor">Escolha uma cor</string>
     <string name="bt_confirmar">Confirmar</string>
     <string name="txt_sucess">Cartão cadastrado com sucesso</string>
+    <string name="share">Compartilhar</string>
+    <string name="txt_card_saved">Cartão compartilhado com sucesso!</string>
 </resources>
