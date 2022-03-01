@@ -2,4 +2,12 @@
     <string name="app_name">BusinessCard</string>
     <string name="label_business_card">Cartão de visitas</string>
     <string name="txt_botao_add_card">botão add cartão</string>
+    <string name="bt_close">botão de fechar</string>
+    <string name="txt_add_card">Novo Cartão</string>
+    <string name="hint_name">Informe o nome</string>
+    <string name="hint_fone">Informe o telefone</string>
+    <string name="hint_email">Informe o e-mail</string>
+    <string name="hint_empresa">Informe o nome da empresa</string>
+    <string name="hint_cor">Escolha uma cor</string>
+    <string name="bt_confirmar">Confirmar</string>
 </resources>
