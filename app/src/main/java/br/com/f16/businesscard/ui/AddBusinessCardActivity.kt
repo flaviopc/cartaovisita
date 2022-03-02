@@ -32,7 +32,7 @@ class AddBusinessCardActivity : AppCompatActivity() {
             finish()
         }
 
-        var cardColor = "#F4AB00"
+        var cardColor = "#ff33b5e5"
         binding.btColor.setOnClickListener {
             MaterialColorPickerDialog
                 .Builder(this)
